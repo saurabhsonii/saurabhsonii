@@ -5,16 +5,18 @@
 <h3 align="left">Software Developer 👨‍💻🚀</h3>
 
 ###
+<br clear="both">
 
-<img align="right" alt="Coding" width="390" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 ###
 
 - 🌱 I’m currently learning **Python Django**
 
 - 💬 Ask me about **Python, Django and Backend Development**
+###
 
-<p align="left" style="font-size: small;"><b>A hard-working person who loves to write clean and scalable code using the latest tech stack.Always hungry for learning new things.</b></p>
+<h4 align="left">A hard-working person who loves to write clean and scalable code using the latest tech stack.Always hungry for learning new things.</h4>
 
 ###
 <div align="left">
