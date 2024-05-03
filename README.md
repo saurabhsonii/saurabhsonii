@@ -1,9 +1,9 @@
 <h2 align="left">Hi 👋! My name is Saurabh Soni I'm a Software Developer.</h2>
 <h3 align="left">Software Developer 👨‍💻🚀</h3>
 
-- 🌱 I’m currently learning **Django Backend**
+- 🌱 I’m currently learning **Python Django Backend**
 
-- 💬 Ask me about **Backend Development**
+- 💬 Ask me about **Python, Django and Backend Development**
 
 <img align="right" alt="Coding" width="390" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
