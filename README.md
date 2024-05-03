@@ -10,7 +10,7 @@
 
 ###
 
-- 🌱 I’m currently working **Python Django**
+- 🔭 I’m currently working **Python Django**
 
 - 💬 Ask me about **Python, Django and Backend Development**
 ###
