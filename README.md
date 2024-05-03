@@ -1,13 +1,22 @@
 <h2 align="left">Hi 👋! My name is Saurabh Soni I'm a Software Developer.</h2>
+
+###
+
 <h3 align="left">Software Developer 👨‍💻🚀</h3>
+
+###
+
+<img align="right" alt="Coding" width="390" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+
+###
 
 - 🌱 I’m currently learning **Python Django**
 
 - 💬 Ask me about **Python, Django and Backend Development**
 
-<img align="right" alt="Coding" width="390" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
-
 <p align="left" style="font-size: small;"><b>A hard-working person who loves to write clean and scalable code using the latest tech stack.Always hungry for learning new things.</b></p>
+
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -46,6 +55,8 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhsonii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
 
 
 <br clear="both">
